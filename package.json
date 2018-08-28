@@ -1,0 +1,26 @@
+{
+    "name": "anydoor",
+    "version": "1.0.0",
+    "description": "this is a  js web dome",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lint": "eslint .",
+        "fix": "eslint --fix ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aaayia/anydoor.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aaayia/anydoor/issues"
+    },
+    "homepage": "https://github.com/aaayia/anydoor#readme",
+    "devDependencies": {
+        "babel-eslint": "^9.0.0",
+        "eslint": "^5.4.0",
+        "pre-commit": "^1.2.2"
+    }
+}
